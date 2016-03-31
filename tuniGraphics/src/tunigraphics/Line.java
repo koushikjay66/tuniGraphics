@@ -10,7 +10,7 @@ import javax.media.opengl.GLEventListener;
 
 /**
  *
- * @author Koushik
+ * @author Team HEAD
  */
 public class Line implements GLEventListener{
 
